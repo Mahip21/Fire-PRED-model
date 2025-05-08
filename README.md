@@ -3,6 +3,14 @@
 
 This project integrates **Convolutional Neural Networks (CNN)** and **Physics-Informed Neural Networks (PINN)** to predict wildfire spread rate by combining image-based feature extraction with physics-driven modeling.
 
+Understand real-world fire behavior 
+→ Identify data modalities (image, terrain, fire logs)
+→ Choose CNN to perceive fire features
+→ Choose PINN to embed fire dynamics
+→ Combine both models
+→ Validate with physics and data
+→ Refine based on performance, realism, and explainability
+
 ## 📌 Objective
 
 To accurately predict the **rate of fire spread (ROS)** using:
