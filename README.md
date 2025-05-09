@@ -89,6 +89,7 @@ To accurately predict the **rate of fire spread (ROS)** using:
 
 ## 🚀 Future Improvements
 
+- Add 2D, 3D PDEs 
 - Integrate **weather conditions** (wind, humidity, temperature)
 - Train CNN using **transfer learning** on satellite imagery
 - Add **temporal sequence modeling** with RNN or Transformers
