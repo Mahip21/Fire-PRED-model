@@ -1,4 +1,5 @@
-
+THIS MODEL IS SPECIFICALLY TRAINED FOR PORTUGESE DATA SET AND THE SLOPE AND ELEVATION FOR PORTUGAL AS WHOLE
+IF CHANGES ARE REQUIRED PLEASE UPDATE THE TARINING AND TESTING DATASET AS WELL AS THE DEM FOLDER, THE DATASHEET FOR THE REGION OF YOUR CHOICE 
 # 🔥 Fire Spread Prediction using CNN + PINN
 
 This project integrates **Convolutional Neural Networks (CNN)** and **Physics-Informed Neural Networks (PINN)** to predict wildfire spread rate by combining image-based feature extraction with physics-driven modeling.
